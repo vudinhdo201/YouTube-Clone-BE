@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTube-Clone", "YouTube-Clone.csproj", "{83ECE02A-7E7B-4E6E-91C1-49153E831FD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83ECE02A-7E7B-4E6E-91C1-49153E831FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83ECE02A-7E7B-4E6E-91C1-49153E831FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83ECE02A-7E7B-4E6E-91C1-49153E831FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83ECE02A-7E7B-4E6E-91C1-49153E831FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36E20A40-FB3F-4B62-B722-234AAD39411F}
+	EndGlobalSection
+EndGlobal
